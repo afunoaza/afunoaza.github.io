@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://afunoaza.github.io/byS/sitemap_index.txt.gz
+Sitemap: https://afunoaza.github.io/dTw/sitemap_index.txt.gz
+Sitemap: https://afunoaza.github.io/fMv/sitemap_index.txt.gz
+Sitemap: https://afunoaza.github.io/pfM/sitemap_index.txt.gz
+Sitemap: https://afunoaza.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://afunoaza.github.io/uCb/sitemap_index.txt.gz
